@@ -5,7 +5,7 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone <репозиторий>
+git clone https://github.com/Laeddys/products-app-test.git
 cd products-app-test
 ```
 
@@ -37,7 +37,6 @@ DB_PASSWORD=
 
 ```bash
 php artisan migrate --seed
-## Security Vulnerabilities
 ```
 
 ## Запуск
